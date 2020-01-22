@@ -1,0 +1,11 @@
+C:\Users\hjohnsick\source\coursework\RoomCalculatorLab\RoomCalculatorLab\bin\Debug\netcoreapp3.1\RoomCalculatorLab.exe
+C:\Users\hjohnsick\source\coursework\RoomCalculatorLab\RoomCalculatorLab\bin\Debug\netcoreapp3.1\RoomCalculatorLab.deps.json
+C:\Users\hjohnsick\source\coursework\RoomCalculatorLab\RoomCalculatorLab\bin\Debug\netcoreapp3.1\RoomCalculatorLab.runtimeconfig.json
+C:\Users\hjohnsick\source\coursework\RoomCalculatorLab\RoomCalculatorLab\bin\Debug\netcoreapp3.1\RoomCalculatorLab.runtimeconfig.dev.json
+C:\Users\hjohnsick\source\coursework\RoomCalculatorLab\RoomCalculatorLab\bin\Debug\netcoreapp3.1\RoomCalculatorLab.dll
+C:\Users\hjohnsick\source\coursework\RoomCalculatorLab\RoomCalculatorLab\bin\Debug\netcoreapp3.1\RoomCalculatorLab.pdb
+C:\Users\hjohnsick\source\coursework\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\netcoreapp3.1\RoomCalculatorLab.csprojAssemblyReference.cache
+C:\Users\hjohnsick\source\coursework\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\netcoreapp3.1\RoomCalculatorLab.AssemblyInfoInputs.cache
+C:\Users\hjohnsick\source\coursework\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\netcoreapp3.1\RoomCalculatorLab.AssemblyInfo.cs
+C:\Users\hjohnsick\source\coursework\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\netcoreapp3.1\RoomCalculatorLab.dll
+C:\Users\hjohnsick\source\coursework\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\netcoreapp3.1\RoomCalculatorLab.pdb
